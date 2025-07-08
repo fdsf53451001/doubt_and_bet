@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fdsf53451001/doubt_and_bet/static/css/main.67ae6adc.css",
+    "main.js": "/fdsf53451001/doubt_and_bet/static/js/main.e71a005f.js",
+    "index.html": "/fdsf53451001/doubt_and_bet/index.html",
+    "main.67ae6adc.css.map": "/fdsf53451001/doubt_and_bet/static/css/main.67ae6adc.css.map",
+    "main.e71a005f.js.map": "/fdsf53451001/doubt_and_bet/static/js/main.e71a005f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67ae6adc.css",
+    "static/js/main.e71a005f.js"
+  ]
+}
